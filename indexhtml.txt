@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Chetas Shree.M</title>
+    <link rel="stylesheet" href="chetas.css">
+  </head>
+  <body>
+    <div class="header">
+      <div class="header-logo">Chetas Shree.M</div>
+      <div class="header-list">
+        <ul>          
+            <li><a href="https://github.com/ChetasShree" target="_blank">Github</a></li>
+            <li><a href="https://twitter.com/ChetasShree?s=08" target="_blank">Twitter</a></li>
+            <li><a href="https://instagram.com/chetasshree_creations?igshid=1x8agqzm0db78" target="_blank">Instagram</a></li>
+            <li><a href="https://www.linkedin.com/in/chetas-shree-m-128a941b7" target="_blank">LinkedIn</a></li>
+            <li><a href="#about">About Me</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="main">
+      <div class="section-title">
+        <img src="Chetas Shree F11inal.png" height="700px" width="1500px">              
+      </div>
+  </div>
+
+    <div class="main">
+      <div class="copy-container">
+        <h1>“Winners are not people who never fail,</h1>
+        <h1>but people who never quit”</h1>
+        <h2>Hey There!!</h2>        
+        <p>I'm Chetas Shree, and here's somethings about me!!</p>        
+      </div>     
+      <div>
+      <div class="contents2">
+        <h3 class="section-title">Some of my Projects</h3>
+        <div class="contents-item">
+          <video width="320" height="240" controls>
+            <source src="rockpaperscissors-python.mp4" type="video/mp4">          
+          </video>
+          <p>Rock Paper Scissors Game <br>  
+          (using python language)</p> 
+          <a href="https://github.com/ChetasShree/RockPaperScissor_game_python.git" target="_blank">Github link</a>               
+        </div>
+        <div class="contents-item">
+          <video width="320" height="240" controls>
+            <source src="egg_catcher_game.mp4" type="video/mp4">          
+          </video>
+          <p> Egg Catcher Game<br>  
+          (using python language)</p>  
+          <a href="https://github.com/ChetasShree/egg_catcher_game_python.git" target="_blank">Github link</a>            
+        </div>        
+        <div class="contents-item">
+          <img src="c2rinsta.png" width=" 320" height="240">          
+          <p>Create 2 Relate <br>
+            A instagram page to uncover <br>
+            the talents of others and <br>
+            promote their self-development.💫</p>
+            <a href="https://instagram.com/create2relate_?igshid=1mfuotis7gkq" target="_blank">Instagram link</a>            
+        </div>     
+        <div class="contents-item">
+          <video width="320" height="240" controls>
+            <source src="final progate.mp4" type="video/mp4">          
+          </video>
+          <p> Portfolio Webpage<br>  
+          (using HTML ,CSS language)</p>  
+          <a href="https://github.com/ChetasShree/egg_catcher_game_python.git" target="_blank">Github link</a>            
+        </div>   
+        <div class="contents-item">
+          <video width="320" height="240" controls>
+            <source src="taka assiatant.mp4" type="video/mp4">          
+          </video>
+          <p>Taka Assiatant<br>  
+          (using Python language)</p>  
+          <P>It helps everyone to ease out their <br>
+             daily chores,like opening a google  <br>
+             website, youtube,n many more <br>
+              You just have to speak,  <br>
+             and it will identify what you want <br>
+              to do and it will do it for you !!!</P>
+          <a href="https://github.com/ChetasShree/Taka_assistant.git" target="_blank">Github link</a>            
+        </div>   
+      </div>  
+      <div>
+      <div class="contents1">
+        <h3 class="section-title">Academic Qualifications:</h3>
+        <div class="contents-item">
+          <ul>
+            <li>• Bachelor of technology in SRM University Chennai ,course- Computer Science Core,
+              Engineering student (Present) <br>
+              • 12 class in Puna International School with 92% in 2020
+              respectively <br>
+              • 10 class in Nand Vidya Niketan School with 91% in 2018 <br></li>
+          </ul>
+        </div>        
+      </div>  
+    </div>
+      <div>
+      <div class="contents">
+        <h3 class="section-title">Strengths:</h3>
+        <div class="contents-item">
+          <ul>
+            <li>• Problem Solving <br>
+              • Critical Thinking <br>
+              • Flexibility <br>
+              • Emotional Intelligence <br>
+              • Leadership , Teamwork <br>
+              • Management <br>
+              • Multitasking <br>
+              • Creativity <br>
+              • Communication Skills <br>
+              • Socialising <br>
+              • Friendly <br></li>
+          </ul>          
+        </div>        
+      </div>  
+    </div>
+      <div>
+      <div class="contents3">
+        <h3 class="section-title">Interests:</h3>
+        <div class="contents-item">
+          <ul>
+            <li>• Python(Computer Language) <br>
+              • C++(Computer Language) <br>
+              • Art (Drawing, Painting) <br>
+              • Solving a Rubik’s cube(3x3) <br>
+              • Dancing <br>
+              • Reading <br>
+              • Cooking <br></li>
+          </ul>          
+        </div>      
+      </div>  
+    </div>
+      <div>
+      <div class="contents1">
+        <h3 class="section-title">Languages:</h3>
+        <div class="contents-item">
+          <ul>
+            <li>• English (Full Professional Proficiency) (Read + Write +Speak + Understand) <br>
+              • Hindi (Full Professional Proficiency) (Read + Write +Speak + Understand) <br>
+              • Telugu (Speak + Understand) <br>
+              • Kannada (Speak + Understand) <br>
+              • Spanish (Read + Write +Speak + Understand) <br></li>
+          </ul>
+        </div>        
+      </div>  
+    </div>
+      <div>
+      <div class="contents4">
+        <h3 class="section-title">Vision:</h3>
+        <div class="contents-item">
+          <ul>
+            <li>• To be financially independent <br>
+              • Do something to improve the financial condition of India <br>
+              • Serve the nation <br>
+              • To be a member of Information Security organization i.e., Indian Cyber Army <br></li>
+          </ul>     
+        </div>       
+      </div>  
+    </div>
+
+    <div class="footer">
+      <div class="footer-logo">Chetas Shree.M</div>
+      <div class="footer-list">
+        <ul>
+            <li><a href="https://www.linkedin.com/in/chetas-shree-m-128a941b7" target="_blank">LinkedIn</a></li>
+            <li><a href="https://twitter.com/ChetasShree?s=08" target="_blank">Twitter</a></li>
+            <li><a href="https://instagram.com/chetasshree_creations?igshid=1x8agqzm0db78" target="_blank">Instagram</a></li>
+            <li><a href="https://github.com/ChetasShree" target="_blank">Github</a></li>
+            <li><a href="#about">About Me</a></li>          
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
